@@ -11,5 +11,7 @@ require security and scaling concerns to be addressed along with any feature
 additions. Nonetheless, it was a fun challenge and exciting to get up and
 running!
 
+The app itself can be downloaded at the google play store (as internal testing) here: https://play.google.com/apps/testing/com.dsmllt.lltracker
+
 This repository holds the android application and server functionality, while the web 
 application is separately located here: https://github.com/davidsmcdonald/lltracker
