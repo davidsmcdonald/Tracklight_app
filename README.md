@@ -1,7 +1,7 @@
-# lltracker_app
-LLtracker android app
+# Tracklight_app
+Tracklight android app
 
-LLTracker is a Android/Web application for public location sharing. I wanted to
+Tracklight is a Android/Web application for public location sharing. I wanted to
 try out my general programming knowledge in an unfamiliar format (Android, in
 this case) with an unfamiliar language (kotlin) and get them working with a
 simple web application.
@@ -14,4 +14,4 @@ running!
 The app itself can be downloaded at the google play store (as internal testing) here: https://play.google.com/apps/testing/com.dsmllt.lltracker
 
 This repository holds the android application and server functionality, while the web 
-application is separately located here: https://github.com/davidsmcdonald/lltracker
+application is separately located here: https://github.com/davidsmcdonald/Tracklight
